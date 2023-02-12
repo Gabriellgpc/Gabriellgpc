@@ -24,3 +24,29 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellgpc&show_icons=true&locale=en" alt="gabriellgpc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellgpc&" alt="gabriellgpc" /></p>
+
+# Public Projects
+
+# **Robotics**
+
+## Software solution for our autonomous soccer team for the IEEE VSSS Competition - Team Poti
+### Description
+Software developed by the [Poti Robot Soccer Team](https://github.com/potiufrn/Futrobot) of the [Department of Computing and Automation](https://www.dca.ufrn.br/) (DCA) at [UFRN](https://www.ufrn.br/) aimed at the development of research in robotics and participation in robot soccer competitions ([IEEE VSSS](https://ieeevss.github.io/vss/index_ptbr.html)).
+### Techstack
+
+**C | C++ | Makefile | Linux | Qt | V4L2 | Bluetooth | Controllers | Path planning | Robotics | Many other.**
+
+Qt to make the graphical interfaces, but the system also runs directly through the terminal, but it is necessary to use the interface at least to calibrate the colors (the vision system uses color segmentation)
+Bluetooth for communication with the host(pc) and robots (fleet of three robots)
+The rest is C++ for doing: image processing, computer vision, AI, control…
+v4l2 (Video for Linux 2) used to build the library for camera control (configuration and consultation of camera parameters) and for capturing images in YUYV or RGBG.
+
+### Source code [here](https://github.com/potiufrn/Futrobot)
+
+## Path Planning using potential field and occupancy grid on CoppeliaSim (VREP)
+
+TechStack: **C++ | CoppeliaSim | Qt | OpenGL**
+
+Simulation using CoppeliaSim (formerly VREP), design in C++ (from scratch) of a path planner based on potential fields. Source Code [here](https://github.com/Gabriellgpc/sistemas_roboticos_autonomos/tree/master/program/p3m3). Obs.: I will leave a report in PDF explaining the general functioning of the system.
+
+YouTube Video [here](https://www.youtube.com/watch?v=_S35ZPSqSBo&ab_channel=Lu%C3%ADsGabriel)
