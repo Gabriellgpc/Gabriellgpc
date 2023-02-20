@@ -146,3 +146,17 @@ TechStack: **C | C++ | Linux | Digital Image Processing | OpenCV**
     * Tilt-Shift effect;
     * Vectorial quantization using K-means;
     * Object tracking using color segmentation.
+
+# MLOps | Model deployment
+
+## MLFlow
+
+### [MLFlow Tracking Server](https://github.com/Gabriellgpc/mlflow-tracking-server)
+
+## OpenVINO
+
+### [OpenVINO Exploration](https://github.com/Gabriellgpc/OpenVINO-exploration)
+
+## TensorRT
+
+### [TensorRT Exploration](https://github.com/Gabriellgpc/TensorRT-exploration)
