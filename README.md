@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luís Gabriel</h1>
+<h1 align="center">Hi 👋, I'm Luís Condados</h1>
 <h3 align="center">A passionate Machine Learning | Computer vision | Engineer/Reseacher from Brazil</h3>
 
-- 🔭 I’m currently working on **computer vision/machine learning at Eldorado Research Institute**
+- 🔭 I’m currently working on **computer vision engineer at Deloitte**
 
 - 🌱 I’m currently learning **about MLOps, self-supervised learning and synthetic data for computer vision**
 
